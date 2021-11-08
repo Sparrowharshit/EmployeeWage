@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace UC_5CalculatingWagesFor_Month
+namespace LimitedWorkingDaysOrHrs
 {
     class Program
     {
@@ -8,13 +8,15 @@ namespace UC_5CalculatingWagesFor_Month
         public const int IS_FULL_TIME = 2;
         public const int EMP_RATE_PER_HOUR = 20;
         public const int NUM_OF_WORKING_DAYS = 20;
+        public const int MAX_HRS_IN_MONTH = 100;
         static void Main(string[] args)
         {
-            //vARIABLE
-            int empHrs = 0, empwage = 0, totalempwage = 0;
+            //variable
+            int empHrs = 0, totalEmpHrs = 0, totalWorkingDays = 0;
             //Computation
-            for (int day = 0; day < NUM_OF_WORKING_DAYS; day++)
+            while (totalEmpHrs <= MAX_HRS_IN_MONTH && totalWorkingDays < NUM_OF_WORKING_DAYS)
             {
+                totalWorkingDays++;
                 Random random = new Random();
                 int empCheck = random.Next(0, 3);
                 switch (empCheck)
@@ -29,11 +31,12 @@ namespace UC_5CalculatingWagesFor_Month
                         empHrs = 0;
                         break;
                 }
-                empwage = empHrs * EMP_RATE_PER_HOUR;
-                totalempwage += empwage;
-                Console.WriteLine("Emp Wage : " + empwage);
+                totalEmpHrs += empHrs;
+                Console.WriteLine("days:" + totalWorkingDays + " Emp Hrs :" + empHrs);
             }
-            Console.WriteLine("Total Emp Wage : " + totalempwage);
+            int totalEmpWage = totalEmpHrs * EMP_RATE_PER_HOUR;
+            Console.WriteLine("Total Emp wage: " + totalEmpWage);
         }
+
     }
 }
