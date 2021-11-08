@@ -1,0 +1,16 @@
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net5.0\EmployeeWage.exe
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net5.0\EmployeeWage.deps.json
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net5.0\EmployeeWage.runtimeconfig.json
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net5.0\EmployeeWage.runtimeconfig.dev.json
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net5.0\EmployeeWage.dll
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net5.0\ref\EmployeeWage.dll
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\bin\Debug\net5.0\EmployeeWage.pdb
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net5.0\EmployeeWage.csproj.AssemblyReference.cache
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net5.0\EmployeeWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net5.0\EmployeeWage.AssemblyInfoInputs.cache
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net5.0\EmployeeWage.AssemblyInfo.cs
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net5.0\EmployeeWage.csproj.CoreCompileInputs.cache
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net5.0\EmployeeWage.dll
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net5.0\ref\EmployeeWage.dll
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net5.0\EmployeeWage.pdb
+C:\Users\Harshit Saxena\source\repos\EmployeeWage\EmployeeWage\obj\Debug\net5.0\EmployeeWage.genruntimeconfig.cache
